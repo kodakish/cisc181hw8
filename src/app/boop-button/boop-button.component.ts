@@ -10,6 +10,6 @@ export class BoopButtonComponent extends WebzComponent {
     }
     @Click("booper")
     boop() {
-        this.boops += "😈";
+        this.boops += "🐱";
     }
 }
